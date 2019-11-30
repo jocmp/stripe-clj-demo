@@ -1,6 +1,6 @@
 (defproject night-drive "0.1.0-SNAPSHOT"
-  :description "FIXME: write description"
-  :url "http://example.com/FIXME"
+  :description "A short night's drive through the Stripe Java API"
+  :url "https://github.com/jocmp/stripe-clj-demo"
   :dependencies [[org.clojure/clojure "1.10.0"]
                  [org.clojure/tools.cli "0.4.2"]
                  [com.stripe/stripe-java "15.7.0"]
