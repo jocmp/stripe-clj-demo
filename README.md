@@ -1,4 +1,4 @@
-# Stripe API example
+# Stripe API demo
 
 A quick drive through the [Stripe Java API](https://github.com/stripe/stripe-java) using Clojure
 
